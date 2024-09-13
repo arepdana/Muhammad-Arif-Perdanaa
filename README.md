@@ -40,7 +40,3 @@ Let’s connect and collaborate! You can reach out to me through the following p
 I’m always open to collaborating on innovative projects or contributing to open-source initiatives. If you have ideas or opportunities, feel free to get in touch!
 
 ---
-
-> "The only way to do great work is to love what you do." – Steve Jobs
-
-Happy coding and exploring! 🚀
